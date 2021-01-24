@@ -1,0 +1,93 @@
+@media only screen and (max-width: 1199px){
+    .container > .row{margin: 0;}
+    
+}
+
+@media only screen and (max-width: 991px){
+}
+
+@media only screen and (max-width: 767px){   
+    .fixed {    position: fixed;z-index: 111;padding: 0;}
+    .logo img {    width: auto;    float: left;height: 38px;margin-top: 7px;}
+    .header-menu li{float: left;width: 100%;padding: 0;}
+    .header-menu li{margin-right: 0;margin-bottom: 10px;}
+    .header{padding: 0; background:#014e7e;}
+    .navbar-right{margin-top: 15px;width: 100%;}
+    .header-menu li a{line-height: 20px;}
+    .footer h4{margin-bottom: 10px;}
+    .footer ul li{margin-bottom: 5px;}
+    .input-field{margin-bottom: 20px;}
+    .contact-info li address,.contact-number a,.contact-number span{font-size: 14px;line-height: 20px;}
+    .navbar-nav .open .dropdown-menu>li>a{line-height: 10px;}
+    .copy-right-info{margin-bottom: 5px;}
+    .copy-right-wrapper:last-child .copy-right-info{margin-bottom: 0;}
+    .copy-right{text-align: center;}
+    .copy-right p{font-size: 14px;line-height: 20px;}
+    .navbar-toggle{padding: 24px 10px}
+    /*index page start*/
+    .main h2 {font-size: 31px;line-height: 1.2em;}
+    .button-click {padding: 15px 14px;font-size: 14px;}
+    .main {padding: 184px 0 119px;}
+    .premium-content1 figure img {height: 20em;border-radius: 50%;}
+    .premium-content h2 {font-size: 28px;}
+    .premium-content h3 {font-size: 18px;}
+    .premium-content h5 {font-size: 17px;}
+    .premium-content p {color: gray;    font-size: 16px;    font-family: 'Acme', sans-serif;margin-bottom: 0px;margin-top: 19px;    text-align: justify;padding: 0px;}
+    .about-me-container {padding: 25px 0 0px;}
+    .site-heading h1 {font-size: 35px;}
+    .we-offer-area.text-center .item {border-radius: 5%;border: medium none;    padding: 18px 31px 0px;min-height: 21em}
+    .tz-gallery .lightbox img {height: 10em;}
+    .gallery-sec {padding: 30px 0;}
+    .gallery-container h1 {font-size: 35px;}
+    .signature-column1 {display: none;}
+    .signature-title h2 span {font-size: 33px;}
+    .signature-title p {font-size: 17px;padding-left: 0px;}
+    .signature-title img {height: 8em; margin-bottom: 16px;}
+    .signature-column2 {height: auto;}
+    /*index page end*/
+
+    /*about me start*/
+    .waveiti img {margin-top: -78px;}
+    .waveiti2 img {margin-top: -86px;}
+    .aboutme-main h1 {font-size: 28px;}
+    .aboutme-main {padding: 153px 0 31px;}
+    .my-image img {border-radius: 50%; height: 19em;margin-top: 9px;}
+    .experience {padding: 3px 0px 0px 15px;}
+    .about-me-info p {padding: 4px 0 16px 0px;color: #2b2d2f;     font-size: 14px;}
+    .about-me-info h3 {font-size: 23px;}
+    .list-item li {font-size: 14px;text-align: justify; padding-top: 12px;}
+    /*about me end*/
+
+
+    /*itskills start*/
+    .itskills-banner h1 {font-size: 34px;}
+    .itskills-banner {min-height: 18em;padding-top: 11em;}
+    .info-itskills {border-radius: 45% 0% 45% 0px;padding: 35px;min-height: 12.5em;}
+    .list-group li {list-style-type: circle;text-align: justify;font-size: 12px; padding-bottom: 16px;}
+    .info-itskills1 {border-radius: 40% 0% 40% 0%;padding: 24px;    background: cadetblue;min-height: 18.5em; transition: transform 1s, filter .5s ease-out;}
+    .info-itskills1 p {padding: 25px 0;font-size: 15px;text-align: justify;}
+    /*itskills end*/
+
+    /*training skills start*/
+    .training-banner h1 {font-size: 26px;}
+    .training-banner {min-height: 22em;padding-top: 11em;}
+    .highlighted-content .box-text {color: #ddd;padding: 8px;height: 100%;text-align: justify;}
+    .box-text h2{    font-size: 27px;line-height: 34px;text-align: center;color: black;}
+    .highlighted-content .box-text--darker-green-grey { height: 35em;margin-bottom: 13px;}
+    .highlighted-content .box-text--dark-brown {height: 34.7em;margin-bottom: 23px;}
+    .highlighted-content .box-text--light-grey {background-color: #565cad;color: #485a64;height: 33em;margin-bottom: 22px;}
+    .order-md-1 .box-image img {margin-top: -44.7em;}
+    .highlighted-content .box-text--dark-brown {background-color: #786251;height: 30em;margin-bottom: 16px;margin-top: 16em;}
+    .box-text p {    padding-top: 25px;color: #fff;font-size: 14px;}
+    /*training skills end*/
+
+    /*footer start*/
+    .footer-title h3 {font-size: 24px;padding-top: 7px;}
+    .conatct-details {padding: 0px 0px;}
+    .footer {    padding: 10px;   background-color: #303030;}
+    .copyright-text {font-size: 14px;padding: 10px;}
+    .copyright-text span {font-size: 16px;    font-weight: bolder;}
+    .icons img {height: 50px;}
+
+    /*footer end*/
+}
